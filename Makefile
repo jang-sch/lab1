@@ -1,3 +1,5 @@
+# Provided by: Gordon Griesel
+# Modified by: Janneth Guarcas Garcia
 # cs335 lab1
 # to compile your project, type make and press enter
 # updated to allow fonts and text
